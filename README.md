@@ -1,5 +1,4 @@
-# At-Coder DP Questions
+# Solved DSA Questions
 
-AtCoder Dynamic Programming Solutions.
-
+1. AtCoder Dynamic Programming Solutions.
 https://atcoder.jp/contests/dp/tasks
